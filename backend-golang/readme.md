@@ -65,7 +65,7 @@ If no suitable data is available a 404 status code should be given.
 
 ## Unit tests
 
-Write functional and API test using using [Jest](https://jestjs.io/).
+Write functional and API test the tool of your choice.
 
 ## Hosting details
 
@@ -77,11 +77,9 @@ You will need to make your API available on a server that we can communicate wit
 
 Your work will be evaluated primarily on:
 
-* Use following [coding style guide](https://github.com/airbnb/javascript)
-* Correct use of promises, including proper error handling. async/await may be used
-* Typescript definitions, types, interfaces.
+* Correct use of proper error handling. async/await may be used
+* Definitions, types, interfaces.
 * Efficient MongoDB queries and indexes
-* Mongoose schemas and models
 * Unit tests for API endpoints and also do functional testing
 * [JSDoc](https://jsdoc.app/) for documenting JavaScript code
 * API documentation using [Swagger](https://swagger.io/)
