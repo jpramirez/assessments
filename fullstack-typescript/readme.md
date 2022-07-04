@@ -52,6 +52,7 @@ Create two API Endpoints:
     - The results will be fetched from the GitHub API & cache it for atleast 2 hours.
     * [GitHub Search API Docs](https://developer.github.com/v3/search/)
 2.  "/api/clear-cache" : Clear Backend Caching
+3.  Implement API Token to authenticate and search for Private repositories.
 
 Here are some of the items that you should take care of
 
