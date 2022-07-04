@@ -19,7 +19,7 @@ That allows the users to search the **users** or **repositories** or **issues** 
 
 ## Requirements
 
-There will be two input fields, on search field for the user to type the text and a dropdown where user can either pick "User" or "Repository" to define the entities that they want to search. When the user doesn't have any input or clears the input, the input fields should be shown in the middle of the page. The UI could roughly look like below:
+There will be three input fields groups, one search field for the user to type the text, a dropdown where user can either pick "User" or "Repository" to define the entities that they want to search and a log me in button that will request the user for a token and use that token to authenticate through the github API and allow them to search private repositories.. When the user doesn't have any input or clears the input, the input fields should be shown in the middle of the page. The UI could roughly look like below:
 
 ![](./mockup-3.png)
 
